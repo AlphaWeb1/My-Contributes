@@ -3,12 +3,12 @@ This directory holds the progression of my programming directories and files, yo
 But remember this is not really the best trends the codes can move so you are welcome to improve on them but keep the source real.
 This directory is the diary to my projects, libraries, functions, codes, frameworks, and many more.
 
-#Basic Profile
-Developer: Abdulwasiu Majoyeogbe
-Contact: +2348188549307, +2348185166459, +2349064232465
-Email: majoyeogbe4alpha@gmail.com, abdulwasihitopee4real@gmail.com
+# Basic Profile
+  Developer: Abdulwasiu Majoyeogbe
+  Contact: +2348188549307, +2348185166459, +2349064232465
+  Email: majoyeogbe4alpha@gmail.com, abdulwasihitopee4real@gmail.com
 
-#Proficiency and Skill Possession
+# Proficiency and Skill Possession
 Web Development and Programming using
   1.  Presentation View: HTML and CSS, Javascript (JQuery, Angular, Node)
   2.  Pattern Manipulation: XML, JSON, SERIALIZATION 
