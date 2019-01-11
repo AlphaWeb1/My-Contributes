@@ -12,9 +12,11 @@
 Web Development and Programming using
   1.  Presentation View: HTML and CSS, Javascript (JQuery, Angular, Node)
   2.  Pattern Manipulation: XML, JSON, SERIALIZATION 
-  2.  Business Logics: PHP, JSP
-  3.  Database: MYSQL, MSSQL, EXCEL, ORACLE DB
-  4.  Security: BASE64 Data Encoding and Decoding, SHA1, MD5, HEXADECIMAL CRYPTOGRAPHY
-  5.  Strategic: Statistical Data Analysis, Maths Computation, Conceptual Coding, Theoretical Proving and Utilization, etc.
+  3.  Business Logics: PHP, JSP
+  4.  Software Development: Object Oriented Java
+  5.  Database: MYSQL, MSSQL, EXCEL, ORACLE DB
+  6.  Security: BASE64 Data Encoding and Decoding, SHA1, MD5, HEXADECIMAL CRYPTOGRAPHY
+  7.  Strategic: Statistical Data Analysis, Maths Computation, Conceptual Coding, Theoretical Proving and Utilization, etc.
+  8. Framewrk Pattern: MVC (Spring, Cake, Self-Developed), Function-Data Injection Framework, Smarty
   
   
