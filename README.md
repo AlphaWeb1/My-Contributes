@@ -9,7 +9,7 @@
   * Email: majoyeogbe4alpha@gmail.com, abdulwasihitopee4real@gmail.com
 
 # Status
-* As little as Ant is, expect to learn the greatest of wisedon from her.
+As little as Ant is, expect to learn the greatest of wisedon from her.
 
 # Proficiency and Skill Possession
 Web Development and Programming using
