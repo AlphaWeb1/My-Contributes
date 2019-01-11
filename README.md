@@ -8,6 +8,9 @@
   * Contact: +2348188549307, +2348185166459, +2349064232465
   * Email: majoyeogbe4alpha@gmail.com, abdulwasihitopee4real@gmail.com
 
+# Status
+* As little as Ant is, expect to learn the greatest of wisedon from her.
+
 # Proficiency and Skill Possession
 Web Development and Programming using
   1.  Presentation View: HTML and CSS, Javascript (JQuery, Angular, Node)
